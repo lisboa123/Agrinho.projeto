@@ -14,8 +14,8 @@ body {
 
 /* Estilo do cabeçalho */
 header {
-    background-color: #FFD700; /* Amarelo forte */
-    color: white;
+    background-color: #005515fb; /* Verde forte */
+    color: rgba(0, 0, 0, 0.986);
     padding: 50px 20px;
     text-align: left; /* Título alinhado à esquerda */
 }
@@ -34,7 +34,7 @@ header p {
 /* Seção de introdução */
 .intro {
     padding: 40px 20px;
-    background-color: #fff;
+    background-color: #f7f7f7;
     max-width: 900px;
     margin: 30px auto;
     border-radius: 8px;
